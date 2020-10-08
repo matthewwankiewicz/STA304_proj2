@@ -428,7 +428,8 @@ The code used to simulate results is found below:
 #get CES dataset, in order to find proportions for certain questions, ie 
 # demographics and voting habits
 
-get_ces("ces2019_web")
+
+# get_ces("ces2019_web")
 ces2019_web <- labelled::to_factor(ces2019_web)
 
 #create a new variable in CES to group voters, by age range
