@@ -7,11 +7,11 @@ output:
   html_document: default
 abstract: After winning the 2019 election with a minority government, the Liberal
           Party has less power than they did the last term, meaning there could be an election
-          at any time. This month, the Liberals hired Petit Polling to conduct some
-          polls and see where they stand if an election was held today. From our simulations,
-          we find that the Liberal party is polling great and appear to be back at their 2015 
-          majority popularity. These findings are promising for the Liberal party as they can now
-          focus on who to target their campaigning on.
+          at any time. This month, the Liberals hired Petit Polling to conduct
+          polls for all of Canada and see where they stand if an election was held today.
+          From our simulations, we find that the Liberal party is polling great and appear
+           to be back at their 2015 majority popularity. These findings are promising for 
+           the Liberal party as they can now focus on who to target their campaigning on.
 ---
 
 ```{r, message=F, echo=F, warning=F}

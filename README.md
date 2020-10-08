@@ -1,1 +1,1 @@
-# STA304_proj2
+# STA304 Problem Set 2, looking at the polls and whether the Liberals can win again
