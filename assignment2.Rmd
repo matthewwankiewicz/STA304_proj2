@@ -496,7 +496,7 @@ covid_prop <- c(.78, .14, .08)
 imp_issue_prop <- c(.32, .29, .28, .11)
 ```
 
-The chunk above focuses on finding the proportions of what repsondants would say
+The chunk above focuses on finding the proportions of what repsondents would say
 
 ```{r, echo=T, message=F, warning=F}
 # save sample size under samp_size
